@@ -1,4 +1,36 @@
+body {
+    background-color: #ffffff;
+}
 #mapid { 
     height: 300px;
     margin: 60px;
  }
+ .custom-marker {
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    color: #ffffff;
+}
+.marker {
+    width: 60%;
+    height: 60%;
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+.navbar-brand{
+    color: #b80808;
+}
+.membro-info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
